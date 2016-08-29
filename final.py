@@ -3,7 +3,7 @@
 #
 # Author: Yueming Yang
 # 
-# Additions made by: Marcus Ross
+# Additions and changes made by: Marcus Ross
 
 class Circuit(object):
 	def __init__(self, in1, in2):
